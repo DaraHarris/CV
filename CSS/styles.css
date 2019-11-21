@@ -5,19 +5,3 @@ h1{
   margin-top: 0;
   margin-bottom: 0;
 }
-
-.top-container{
-  width: 200;
-  height: 200;
-}
-.middle-container {
-  width: 200;
-  height: 200;
-  background-color: red;
-}
-
-.bottom-container{
-  width: 200;
-  height: 200;
-  background-color: blue;
-}
