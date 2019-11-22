@@ -13,13 +13,13 @@ h1{
   margin-bottom: 0;
 }
 
-.middle-container{
+#middle-container{
   width: 200px;
   height: 200px;
   background-color: fcc169;
 }
 
-.bottom-container{
+#bottom-container{
   width: 200px;
   height: 200px;
   background-color: e13a9d;
