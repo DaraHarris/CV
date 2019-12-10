@@ -1,7 +1,7 @@
 html, body{
   display:block;
   margin: 0;
-  height: 100%;
+  height:100%;
 }
 
 div{
@@ -11,26 +11,26 @@ div{
 
 .middle-container{
   background-color:#6c7b95;
-  height: 30%;
-
+  height:30%;
   padding:40px;
 }
 
 .top-container {
-  background-color: #464159;
-  height: 15%;
+  background-color: #fdeced;
+
 }
 
 .bottom-container{
   background-color: #c7f0db;
   padding: 30px;
-  height: 40%;
+  height:60%;
 }
 
 #email:hover{
-  color: green;
+  color:green;
+
 }
 .footer{
-  text-align: center;
-  height: 15%;
+  text-align:center;
+  height:5%;
 }
