@@ -22,3 +22,10 @@ div{
   background-color: #c7f0db;
   padding: 30px;
 }
+
+#email:hover{
+  color: green;
+}
+#email{
+  text-align: center;
+}
