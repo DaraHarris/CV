@@ -13,14 +13,15 @@ h1{
   margin-bottom: 0;
 }
 
+.top-container{
+  background-color: green;
+}
 .middle-container {
-
+  background-color: red;
 
 }
-
-
 .bottom-container{
-
+  background-color: lightblue;
 
 }
 
