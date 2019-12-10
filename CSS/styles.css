@@ -1,6 +1,7 @@
-body{
+html, body{
   display:block;
   margin: 0;
+  height: 100%;
 }
 
 div{
@@ -16,6 +17,7 @@ div{
 
 .top-container {
   background-color: #464159;
+  height: 20%;
 }
 
 .bottom-container{
