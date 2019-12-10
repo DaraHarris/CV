@@ -13,17 +13,17 @@ h1{
   margin-bottom: 0;
 }
 
-#middle-container {
+.middle-container {
 
 
 }
 
 
-#bottom-container{
+.bottom-container{
 
 
 }
 
-.menu{
+#menu{
   background-color: blue;
 }
