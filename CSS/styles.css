@@ -26,6 +26,6 @@ div{
 #email:hover{
   color: green;
 }
-#email{
+.footer{
   text-align: center;
 }
