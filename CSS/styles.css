@@ -2,7 +2,7 @@ html, body{
   display:block;
   margin: 0;
   height:100%;
-  
+
 }
 
 div{
@@ -36,4 +36,8 @@ div{
   text-align:center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
+}
+
+.self-intro{
+  text-align: center;
 }
