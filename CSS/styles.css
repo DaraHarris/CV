@@ -13,12 +13,15 @@ div{
 .middle-container{
   background-color:#6c7b95;
   height:30%;
+  margin: 0;
+  padding: 0;
 
 }
 
 .top-container {
   background-color: #fdeced;
   margin: 0;
+
 
 }
 
