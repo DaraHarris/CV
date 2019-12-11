@@ -12,7 +12,7 @@ div{
 .middle-container{
   background-color:#6c7b95;
   height:30%;
-  padding:40px;
+
 }
 
 .top-container {
@@ -22,19 +22,15 @@ div{
 
 .bottom-container{
   background-color: #c7f0db;
-  padding: 30px;
+
   height:60%;
 }
 
-#email:hover{
-  color:green;
-
-}
 .footer{
   text-align:center;
   height:5%;
 }
 
-#myname{
-  text-align: center;
+.introduction{
+  text-align:center;
 }
