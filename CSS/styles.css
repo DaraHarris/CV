@@ -33,6 +33,7 @@ div{
 }
 
 .introduction{
+  position: relative;
   text-align:center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -40,4 +41,10 @@ div{
 
 .self-intro{
   text-align: center;
+  position: absolute;
+}
+.myname{
+  text-align: center;
+  position: absolute;
+
 }
